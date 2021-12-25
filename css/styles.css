@@ -1,0 +1,64 @@
+body{
+  margin: 0;
+
+}
+hr{
+border-style: dotted none none;
+width: 5%;
+border-width: 5px;
+border-color: #FAEDC6;
+}
+h1{
+  margin-top: 0;
+  margin-left: 5px;
+  font-size:60px;
+  padding-top: 50px;
+  color: #66BFBF;
+  margin-bottom: 50px;
+}
+h2{
+  font-size: 40px;
+  padding-bottom: 50px;
+  margin-left: 5px;
+  color: #66BFBF;
+  font-weight: bolder;
+}
+
+div{
+  background-color: #7CD1B8;
+
+
+  text-align: center;
+  margin:  auto ;
+
+
+    font-family: 'Vujahday Script', cursive;
+
+}
+
+.top-cloud{
+position: relative;
+margin-left : 500px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+
+}
+
+a{
+  color: #11999E;
+}
+p{
+  line-height: 2;
+}
+
+
+.test{
+  margin: auto;
+}
+
+.buddy{
+  margin-bottom: 0px;
+}
